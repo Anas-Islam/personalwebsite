@@ -55,16 +55,19 @@ text-align: center;
     border: 1px solid whitesmoke;
     background-color: rgb(61, 109, 145);
     border-radius: 200px;
+    padding: 100px;
 }
 
 #WorkExperience_Container {
     border: 1px solid white;
     background-color: rgb(135, 246, 139);
     border-radius: 200px;
+    padding: 100px;
 }
 
 #ContactMe_container {
     border: 1px solid white;
     background-color: rgb(135, 196, 246);
     border-radius: 200px;
+    padding: 100px;
 }
